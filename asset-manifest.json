@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3624415.css",
+    "main.js": "/static/js/main.e4b5f696.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/CV-RUBENMONTES.pdf": "/static/media/CV-RUBENMONTES.0099cb3b7070c8a618f4.pdf",
+    "static/media/about.jpg": "/static/media/about.555434c695b81f5916d3.jpg",
+    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
+    "static/media/RobotoSlab-Black.ttf": "/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
+    "static/media/RobotoSlab-Bold.ttf": "/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
+    "static/media/RobotoSlab-Regular.ttf": "/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
+    "static/media/GildaDisplay-Regular.ttf": "/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
+    "static/media/gotosite.webp": "/static/media/gotosite.dc2459843a8d51a90e5d.webp",
+    "static/media/github.webp": "/static/media/github.ed1c06d925fff0b57e32.webp",
+    "index.html": "/index.html",
+    "main.b3624415.css.map": "/static/css/main.b3624415.css.map",
+    "main.e4b5f696.js.map": "/static/js/main.e4b5f696.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3624415.css",
+    "static/js/main.e4b5f696.js"
+  ]
+}
